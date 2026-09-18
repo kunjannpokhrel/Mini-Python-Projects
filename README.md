@@ -1,4 +1,4 @@
-# Mini Python Projects 
+# Mini Python Projects
 
 A collection of small Python projects built while learning and strengthening my Python programming fundamentals.
 
@@ -6,16 +6,16 @@ The goal of this repository is to practice programming concepts by building proj
 
 ## Projects
 
-| Project                  | Description                                                                                                                |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **Alarm**                | A simple alarm program that checks the current time and plays an alert when the set time is reached.                       |
-| **Currency Converter**   | Converts currencies using live exchange-rate data from the Frankfurter API.                                                |
-| **Math Quiz**            | A timed math quiz with difficulty levels, randomly generated questions, scoring, and input validation.                     |
-| **Number Guessing Game** | A number guessing game with multiple difficulty levels, hints, guess tracking, and input validation.                       |
-| **Password Generator**   | Generates random passwords using lowercase letters, uppercase letters, numbers, and special characters.                    |
-| **Rock Paper Scissors**  | A Rock Paper Scissors game with a configurable winning score, score tracking, random computer moves, and input validation. |
-| **Timer**                | A command-line countdown timer with minute/second handling and sound effects.                                              |
-
+| Project                  | Description                                                                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alarm**                | A simple alarm program that checks the current time and plays an alert when the set time is reached.                                      |
+| **Calculator**           | A command-line calculator supporting basic arithmetic, powers, logarithms, square roots, natural logarithms, and trigonometric functions. |
+| **Currency Converter**   | Converts currencies using live exchange-rate data from the Frankfurter API.                                                               |
+| **Math Quiz**            | A timed math quiz with difficulty levels, randomly generated questions, scoring, and input validation.                                    |
+| **Number Guessing Game** | A number guessing game with multiple difficulty levels, hints, guess tracking, and input validation.                                      |
+| **Password Generator**   | Generates random passwords using lowercase letters, uppercase letters, numbers, and special characters.                                   |
+| **Rock Paper Scissors**  | A Rock Paper Scissors game with a configurable winning score, score tracking, random computer moves, and input validation.                |
+| **Timer**                | A command-line countdown timer with minute/second handling and sound effects.                                                             |
 
 ## External Tools & Libraries
 
@@ -28,16 +28,14 @@ Some projects use Python libraries and external services:
 * **Time** — for delays and timing
 * **Winsound** — for Windows sound effects
 * **String** — for character sets used in password generation
+* **Math** — for mathematical operations including powers, logarithms, square roots, and trigonometric functions
 
 ## Repository Status
 
 **In development**
-
 This repository will continue to grow as I learn new Python concepts and build more projects.
-
 
 ## Author
 
 **Kunjan Pokhrel**
-
 GitHub: [@kunjannpokhrel](https://github.com/kunjannpokhrel)
